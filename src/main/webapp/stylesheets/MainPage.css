@@ -1,0 +1,88 @@
+header{
+    background-color: green;
+    color:black;
+    text-align: center;
+    font-size: 25pt;
+    margin-top: 15px;
+    margin-bottom: 20px;
+
+}
+canvas{
+    background: white;
+}
+select{
+    width: 300px;
+    height: 30px;
+    font-size: 20pt;
+}
+img{
+    width: 800px;
+    height: 600px;
+    margin-left:20px;
+}
+
+html{
+    background-image: url("../img/itmo.jpg");
+
+}
+
+.point input{
+    width: 50px;
+    height: 30px;
+    margin: 5px;
+    font-size: 20pt;
+}
+
+a{
+    font-size: 20pt;
+}
+td.choice{
+    background-color: grey;
+  }
+td.result{
+    background-color: white;
+    color: blue;
+}
+
+br#y{
+    top:10px;
+}
+
+.check {
+    width: 200px;
+    height: 100px;
+    background-color: red;
+    color:green;
+    font-size: 25pt;
+    font-family: Arial, Helvetica, sans-serif;
+}
+tr{
+    text-align: center;
+}
+#table tr,td{
+    padding: 20px;
+    font-size: 20pt;
+
+}
+#table tbody{
+    background-color: green;
+    color: black;
+}
+#table thead{
+    background-color: black;
+    color: red;
+
+}
+textarea{
+    width: 300px;
+    height: 40px;
+    font-size: 20px;
+}
+#fail{
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 1000;
+    font-size: 25px;
+    background-color: grey;
+    color: black;
+    width: 400px;
+}
